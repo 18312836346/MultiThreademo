@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_msg" type="id" />
+    <item name="iv_download" type="id" />
+    <item name="progress_bar" type="id" />
+    <item name="btn_start_handler" type="id" />
+    <item name="btn_start_async" type="id" />
+    <item name="btn_download_handler" type="id" />
+    <item name="btn_download_async" type="id" />
+</resources>
